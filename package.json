@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "name": "to-do-list-by-sadia_khan",
+  "version": "1.0.1",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
